@@ -5,7 +5,7 @@
  * main - this program prints postive or negative
  * Description: using ths main function
  * this program prints "Positive, negative, zero
- * Returns: o
+ * Return: 0
  */
 int main(void)
 {
