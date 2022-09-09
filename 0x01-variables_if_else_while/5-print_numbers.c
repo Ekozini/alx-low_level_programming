@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - printsdodsjfD
- * DESCRIPTION: USING THR MAIN FUNTION 
+ * DESCRIPTION: USING THR MAIN FUNTION
  * ths program would print "adkfkasdjfkjasdf
  * Return: 0
  */
