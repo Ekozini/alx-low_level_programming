@@ -4,9 +4,9 @@
 /**
  * main - print if the number is positive, zero or negative
  *
- * Description: using main function
- * this program prints positive, negative or zero
- * return: 0
+ * Description: using the main function
+ * this program prints "positive, negative or zero
+ * Return: 0
  */
 int main(void)
 {
