@@ -2,9 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - print positive, negative or zero
- * Description: using the main function
- * this program prints "Positive, negative or zero
+ * main - this is a program for this
+ *
+ * Description: this is made to use main
+ * the program would print " the powr od ta woman
  * Return: 0
  */
 int main(void)
@@ -18,15 +19,15 @@ l = n % 10;
 
 if (l > 5)
 {
-	printf("last digit of %d is %d and is greater than 5\n", n, l);
+	printf("Last digit of %d is %d and is greater than 5\n", n, l);
 }
 else if (l == 0)
 {
-	printf("last digit of %d is %d and is 0\n", n, l);
+	printf("Last digit of %d is %d and is 0\n", n, l);
 }
 else
 {
-	printf("last digit of %d is %d and is less than 6 and not 0\n", n, l);
+	printf("Last digit of %d is %d and is less than 6 and not 0\n", n, l);
 }
 return (0);
 }
